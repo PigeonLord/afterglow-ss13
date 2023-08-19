@@ -308,6 +308,9 @@ Head Scribe
 		/obj/item/book/granter/crafting_recipe/blueprint/wattz2k = 1,
 		/obj/item/book/granter/crafting_recipe/blueprint/aer9 = 1,
 		/obj/item/book/granter/crafting_recipe/blueprint/aep7 = 1,
+		/obj/item/book/granter/trait/explosives_advanced = 1,
+		/obj/item/book/granter/crafting_recipe/gunsmith_three = 1,
+		/obj/item/book/granter/crafting_recipe/gunsmith_four = 1,
 		)
 
 /datum/outfit/loadout/hshield
@@ -689,6 +692,8 @@ Senior Scribe
 		/obj/item/book/granter/crafting_recipe/blueprint/aep7 = 1,
 		/obj/item/gun/energy/laser/pistol=1,
 		/obj/item/stock_parts/cell/ammo/ec=2,
+		/obj/item/book/granter/trait/explosives_advanced = 1,
+		/obj/item/book/granter/crafting_recipe/gunsmith_three = 1,
 		)
 
 /datum/outfit/loadout/sshield
@@ -788,6 +793,8 @@ Scribe
 	backpack_contents = list(
 		/obj/item/clothing/accessory/bos/juniorscribe=1,
 		/obj/item/book/granter/crafting_recipe/blueprint/aep7 = 1,
+		/obj/item/book/granter/trait/explosives = 1,
+		/obj/item/book/granter/crafting_recipe/gunsmith_three = 1,
 		)
 
 /datum/outfit/loadout/swordb
@@ -795,6 +802,8 @@ Scribe
 	backpack_contents = list(
 		/obj/item/clothing/accessory/bos/scribe=1,
 		/obj/item/book/granter/crafting_recipe/blueprint/aep7 = 1,
+		/obj/item/book/granter/trait/explosives = 1,
+		/obj/item/book/granter/crafting_recipe/gunsmith_three = 1,
 		)
 
 /datum/outfit/loadout/shielda
